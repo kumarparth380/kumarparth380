@@ -1,6 +1,7 @@
-### Hi there, I am Parth 👋
+### Hi there, I'm Parth 👋
 
 ## I'm a Full-stack developer.
+
 
 ### Languages and Tools:
 
@@ -23,6 +24,9 @@
 
 <br />
 <br />
+
+---
+
 
 <!--
 **kumarparth380/kumarparth380** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
